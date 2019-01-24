@@ -1,2 +1,2 @@
 # Blizzardupdatekiller
-Confirmed working on diablo 3 patch 1.0.3
+Stops blizzard updater instantly or patches the agent file insantly killing blizzard updater when it starts up.
